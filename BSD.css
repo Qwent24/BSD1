@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#dazai {
+    height: 753px;
+    background-color: #703701;
+}
+#dazai p {
+    color: #edd8c5;
+}
+#dazai-img {
+    float: right;
+}
+#name {
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 125px;
+    font-family: 'Great Vibes', cursive;
+}
+#description {
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 40px;
+}
+#chuuya {
+    height: 753px;
+    background-color: #211000;
+}
+#chuuya p {
+    color: #fce9d7  ;
+}
+#chuuya-img {
+    float: left;
+}
